@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **reyhan-putra-RH/reyhan-putra-RH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->- 🔭 I’m currently working on my personal project, a simple web using HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning JavaScript and Python
+
